@@ -1,0 +1,51 @@
+.title{
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  margin-top: 33.5px;
+  margin-bottom:33.5px;
+}
+.link{
+  color: Aquamarine;
+  font-size: 16px;
+  font-family: Verdana;
+  font-weight: Normal;
+  margin-top: 21px;
+  margin-bottom: 21px;
+}
+body {
+   background-color: black;
+   text-align: center;
+}
+
+h6 {
+  margin-top: 21px;
+  margin-bottom: 21px;
+}
+
+.caption1,.caption3{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.caption2{
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+.footer{
+  text-align: right;
+  color:gray;
+  font-size: 21px;
+  margin-bottom: 21px;
+  margin-top: 21px;
+}
+
+.image2 {
+  margin-top: 21px;
+  margin-bottom: 21px;
+}
